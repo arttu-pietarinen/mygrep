@@ -100,3 +100,9 @@ Could not find out the size of file "missingfile.txt"
 | 4 | Case-insensitive, reverse search, exceptions | 5p |
 
 **Target: 5 points**
+
+---
+
+## AI usage
+
+AI was used in this project for understand how different concepts work in C++, and to make sure my code meets the standards. All the code is written by the author.
