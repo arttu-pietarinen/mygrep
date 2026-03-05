@@ -1,0 +1,5 @@
+mygrep
+main
+*.o
+*.out
+.DS_Store
