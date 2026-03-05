@@ -15,15 +15,9 @@
 
 ---
 
-## How to build
-
-```
-g++ main.cpp -o mygrep
-```
-
----
-
 ## How to use
+
+Note: commands are for Mac/Linux.
 
 ### Interactive mode
 Run with no arguments:
